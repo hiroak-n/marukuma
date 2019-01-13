@@ -8,7 +8,7 @@ namespace BTSample
     [Register("AppDelegate")]
     public class AppDelegate : UIApplicationDelegate
     {
-        // class-level declarations
+        //// class-level declarations
 
         public override UIWindow Window
         {
